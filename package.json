@@ -3,5 +3,11 @@
   "version": "0.0.1",
   "private": true,
   "main": "index.js",
-  "author": "Federico Esparza"
+  "author": "Federico Esparza",
+  "dependencies": {
+    "electron-prebuilt": "^1.2.0",
+    "react": "^15.0.2",
+    "react-desktop": "^0.2.0",
+    "react-dom": "^15.0.2"
+  }
 }
